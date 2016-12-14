@@ -6,18 +6,17 @@
 
 ***
 ### <a name="8KYU">8 KYU</a>
-***
+
 ### <a name="7KYU">7 KYU</a>
-***
+
 ### <a name="6KYU">6 KYU</a>
-***
+
 ### <a name="5KYU">5 KYU</a>
-***
+
 ### <a name="4KYU">4 KYU</a>
-***
+
 ### <a name="3KYU">3 KYU</a>
-***
+
 ### <a name="2KYU">2 KYU</a>
-***
+
 ### <a name="1KYU">1 KYU</a>
-***
