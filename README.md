@@ -7,9 +7,27 @@
 ***
 ### <a name="8KYU">8 KYU</a>
 
+[BASIC: Making Six Toast] (8kyu/basic_making_six_toast_final.rb) [(CodeWars)] (https://www.codewars.com/kata/basic-making-six-toast)
+
+[Convert a Number to a String!] (8kyu/convert_a_number_to_a_string_final.rb) [(CodeWars)] (https://www.codewars.com/kata/convert-a-number-to-a-string)
+
+[Duck Duck Goose] (8kyu/duck_duck_goose_final.rb) [(CodeWars)] (https://www.codewars.com/kata/duck-duck-goose)
+
+[Even or Odd] (8kyu/even_or_odd_final.rb) [(CodeWars)] (https://www.codewars.com/kata/even-or-odd)
+
+[Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence] (8kyu/exclamation_marks_11_final.rb) [(CodeWars)] (https://www.codewars.com/kata/exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence)
+
+[Jenny's secret message] (8kyu/jennys_secret_message_final.rb) [(CodeWars)] (https://www.codewars.com/kata/jennys-secret-message)
+
+[Keep Hydrated!] (8kyu/keep_hydrated_final.rb) [(CodeWars)] (https://www.codewars.com/kata/keep-hydrated-1)
+
+[Multiply] (8kyu/multiply_final.rb) [(CodeWars)] (https://www.codewars.com/kata/multiply)
+
+[Volume of a Cuboid] (8kyu/volume_of_a_cuboid_final.rb) [(CodeWars)] (https://www.codewars.com/kata/volume-of-a-cuboid)
+
 ### <a name="7KYU">7 KYU</a>
 
-[Binary Addition] (7kyu/caffeine_script_final.rb) [(CodeWars)] (https://www.codewars.com/kata/caffeine-script)
+[Binary Addition] (7kyu/binary_addition_final.rb) [(CodeWars)] (https://www.codewars.com/kata/binary-addition)
 
 [Breaking chocolate problem] (7kyu/breaking_chocolate_problem_final.rb) [(CodeWars)] (https://www.codewars.com/kata/breaking-chocolate-problem)
 
