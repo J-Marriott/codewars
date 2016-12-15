@@ -17,6 +17,20 @@
 
 [Format a string of names like 'Bart, Lisa & Maggie'] (6kyu/format_a_string_of_names_final.rb) [(CodeWars)] (https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie)
 
+[Linux history and `!` command. Series#1 The `!!` command] (6kyu/linux_history_1_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-1-the-%60-%60-command)
+
+[Linux history and `!` command. Series#2 The `!n` command] (6kyu/linux_history_2_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-2-the-%60-n%60-command)
+
+[Linux history and `!` command. Series#3 The `!-n` command] (6kyu/linux_history_3_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-3-the-%60-n%60-command/)
+
+[Linux history and `!` command. Series#4 The `!string` command] (6kyu/linux_history_4_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-4-the-%60-string%60-command)
+
+[Linux history and `!` command. Series#5 The `!?string` command] (6kyu/linux_history_5_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-5-the-%60-string%60-command)
+
+[Multiples of 3 and 5] (6kyu/multiples_of_3_and_5_final.rb) [(CodeWars)] (https://www.codewars.com/kata/multiples-of-3-and-5/)
+
+[Who likes it?] (6kyu/who_likes_it_final.rb) [(CodeWars)] (https://www.codewars.com/kata/who-likes-it)
+
 
 
 ### <a name="5KYU">5 KYU</a>
