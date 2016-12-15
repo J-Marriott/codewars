@@ -11,6 +11,10 @@
 
 ### <a name="6KYU">6 KYU</a>
 
+[Format a string of names like 'Bart, Lisa & Maggie'.] (6kyu/format_a_string_of_names_final.rb) - [CodeWars] (https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie)
+
+[Format a string of names like 'Bart, Lisa & Maggie'.] (6kyu/bit_counting_final.rb) - [CodeWars] (https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie)
+
 ### <a name="5KYU">5 KYU</a>
 
 ### <a name="4KYU">4 KYU</a>
