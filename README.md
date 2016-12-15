@@ -103,6 +103,10 @@
 
 ### <a name="5KYU">5 KYU</a>
 
+[Common Denominators] (5kyu/common_denominators_final.rb) [(CodeWars)] (https://www.codewars.com/kata/common-denominators)
+
+[Simple Pig Latin] (5kyu/simple_pig_latin_final.rb) [(CodeWars)] (https://www.codewars.com/kata/simple-pig-latin)
+
 ### <a name="4KYU">4 KYU</a>
 
 ### <a name="3KYU">3 KYU</a>
