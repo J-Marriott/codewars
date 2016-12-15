@@ -81,7 +81,11 @@
 
 ### <a name="6KYU">6 KYU</a>
 
+[Array.diff] (6kyu/array_dot_diff_final.rb) [(CodeWars)] (https://www.codewars.com/kata/array-dot-diff)
+
 [Bit Counting] (6kyu/bit_counting_final.rb) [(CodeWars)] (https://www.codewars.com/kata/bit-counting)
+
+[Dubstep] (6kyu/dubstep_final.rb) [(CodeWars)] (https://www.codewars.com/kata/dubstep)
 
 [Find the odd int] (6kyu/Find_the_odd_int_final.rb) [(CodeWars)] (https://www.codewars.com/kata/find-the-odd-int)
 
@@ -98,6 +102,8 @@
 [Linux history and `!` command. Series#5 The `!?string` command] (6kyu/linux_history_5_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-5-the-%60-string%60-command)
 
 [Multiples of 3 and 5] (6kyu/multiples_of_3_and_5_final.rb) [(CodeWars)] (https://www.codewars.com/kata/multiples-of-3-and-5/)
+
+[Tortoise Racing] (6kyu/tortoise_racing_final.rb) [(CodeWars)] (https://www.codewars.com/kata/tortoise-racing)
 
 [Who likes it?] (6kyu/who_likes_it_final.rb) [(CodeWars)] (https://www.codewars.com/kata/who-likes-it)
 
