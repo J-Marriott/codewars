@@ -11,9 +11,13 @@
 
 ### <a name="6KYU">6 KYU</a>
 
+[Bit Counting] (6kyu/bit_counting_final.rb) [(CodeWars)] (https://www.codewars.com/kata/bit-counting)
+
+[Find the odd int] (6kyu/Find_the_odd_int_final.rb) [(CodeWars)] (https://www.codewars.com/kata/find-the-odd-int)
+
 [Format a string of names like 'Bart, Lisa & Maggie'] (6kyu/format_a_string_of_names_final.rb) [(CodeWars)] (https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie)
 
-[Bit Counting] (6kyu/bit_counting_final.rb) [(CodeWars)] (https://www.codewars.com/kata/bit-counting)
+
 
 ### <a name="5KYU">5 KYU</a>
 

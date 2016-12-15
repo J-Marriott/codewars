@@ -1,3 +1,11 @@
+=begin
+
+Given: an array containing hashes of names
+
+Return: a string formatted as a list of names separated by commas except for the last two names, which should be separated by an ampersand.
+
+=end
+
 def list names
   results = ""
   num = 0
@@ -15,17 +23,24 @@ def list names
 end
 
 
-puts list([ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'}, {name: 'Homer'} ])
+list([ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'}, {name: 'Homer'} ])
+
 =begin
-list([ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'} ])
-# returns 'Bart, Lisa & Maggie'
+best solution on codewars
 
-list([ {name: 'Bart'}, {name: 'Lisa'} ])
-# returns 'Bart & Lisa'
+by user ggpasqualino
 
-list([ {name: 'Bart'} ])
-# returns 'Bart'
+def list names
+  names = names.map { |name| name[:name] }
+  last_name = names.pop
+  return last_name.to_s if names.empty?
+  "#{names.join(', ')} & #{last_name}"
+end
 
-list([])
-# returns ''
+by user mmmm
+
+def list names
+  names.map(&:values).join(', ').gsub(/, (\w+)$/, " & \\1")
+end
+
 =end
