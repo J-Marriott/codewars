@@ -9,6 +9,16 @@
 
 ### <a name="7KYU">7 KYU</a>
 
+[Fizz Buzz Cuckoo Clock] (7kyu/fizz_buzz_cuckoo_clock_final.rb) [(CodeWars)] (https://www.codewars.com/kata/fizz-buzz-cuckoo-clock)
+
+[Palindromes Here and There] (7kyu/palindromes_here_and_there_final.rb) [(CodeWars)] (https://www.codewars.com/kata/palindromes-here-and-there)
+
+[So Easy: Charge time calculation] (7kyu/so_easy_charge_time_calculation_final.rb) [(CodeWars)] (https://www.codewars.com/kata/so-easy-charge-time-calculation/)
+
+[String Reversing, Changing case, etc.] (7kyu/string_reversing_changing_case_etc_final.rb) [(CodeWars)] (https://www.codewars.com/kata/string-reversing-changing-case-etc/)
+
+
+
 ### <a name="6KYU">6 KYU</a>
 
 [Bit Counting] (6kyu/bit_counting_final.rb) [(CodeWars)] (https://www.codewars.com/kata/bit-counting)
@@ -30,8 +40,6 @@
 [Multiples of 3 and 5] (6kyu/multiples_of_3_and_5_final.rb) [(CodeWars)] (https://www.codewars.com/kata/multiples-of-3-and-5/)
 
 [Who likes it?] (6kyu/who_likes_it_final.rb) [(CodeWars)] (https://www.codewars.com/kata/who-likes-it)
-
-
 
 ### <a name="5KYU">5 KYU</a>
 
