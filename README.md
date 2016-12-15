@@ -9,6 +9,12 @@
 
 ### <a name="7KYU">7 KYU</a>
 
+[Binary Addition] (7kyu/caffeine_script_final.rb) [(CodeWars)] (https://www.codewars.com/kata/caffeine-script)
+
+[Breaking chocolate problem] (7kyu/breaking_chocolate_problem_final.rb) [(CodeWars)] (https://www.codewars.com/kata/breaking-chocolate-problem)
+
+[Caffeine Script] (7kyu/two_to_one_final.rb) [(CodeWars)] (https://www.codewars.com/kata/two-to-one)
+
 [Complementary DNA] (7kyu/complementary_dna_final.rb) [(CodeWars)] (https://www.codewars.com/kata/complementary-dna)
 
 [Descending Order] (7kyu/descending_order_final.rb) [(CodeWars)] (https://www.codewars.com/kata/descending-order)
@@ -16,6 +22,8 @@
 [Disemvowel Trolls] (7kyu/disemvowel_trolls_final.rb) [(CodeWars)] (https://www.codewars.com/kata/disemvowel-trolls)
 
 [Fizz Buzz Cuckoo Clock] (7kyu/fizz_buzz_cuckoo_clock_final.rb) [(CodeWars)] (https://www.codewars.com/kata/fizz-buzz-cuckoo-clock)
+
+[Flatten] (7kyu/flatten_final.rb) [(CodeWars)] (https://www.codewars.com/kata/flatten)
 
 [Friend or Foe?] (7kyu/friend_or_foe_final.rb) [(CodeWars)] (https://www.codewars.com/kata/friend-or-foe)
 
@@ -29,9 +37,13 @@
 
 [Parts of a list] (7kyu/parts_of_a_list_final.rb) [(CodeWars)] (https://www.codewars.com/kata/parts-of-a-list)
 
+[Remove the minimum] (7kyu/remove_the_minimum_final.rb) [(CodeWars)] (https://www.codewars.com/kata/remove-the-minimum)
+
 [So Easy: Charge time calculation] (7kyu/so_easy_charge_time_calculation_final.rb) [(CodeWars)] (https://www.codewars.com/kata/so-easy-charge-time-calculation)
 
 [Sorted?yes?no?how?] (7kyu/sorted_yes_no_how_final.rb) [(CodeWars)] (https://www.codewars.com/kata/sorted-yes-no-how)
+
+[Square Every Digit] (7kyu/square_every_digit_final.rb) [(CodeWars)] (https://www.codewars.com/kata/square-every-digit)
 
 [String Reversing, Changing case, etc.] (7kyu/string_reversing_changing_case_etc_final.rb) [(CodeWars)] (https://www.codewars.com/kata/string-reversing-changing-case-etc)
 
