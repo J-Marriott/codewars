@@ -9,13 +9,29 @@
 
 ### <a name="7KYU">7 KYU</a>
 
+[Descending Order] (7kyu/descending_order_final.rb) [(CodeWars)] (https://www.codewars.com/kata/descending-order)
+
 [Fizz Buzz Cuckoo Clock] (7kyu/fizz_buzz_cuckoo_clock_final.rb) [(CodeWars)] (https://www.codewars.com/kata/fizz-buzz-cuckoo-clock)
+
+[Friend or Foe?] (7kyu/friend_or_foe_final.rb) [(CodeWars)] (https://www.codewars.com/kata/friend-or-foe)
+
+[Holiday V - SeaSick Snorkelling] (7kyu/holiday_v_seasick_snorkelling_final.rb) [(CodeWars)] (https://www.codewars.com/kata/holiday-v-seasick-snorkelling)
 
 [Palindromes Here and There] (7kyu/palindromes_here_and_there_final.rb) [(CodeWars)] (https://www.codewars.com/kata/palindromes-here-and-there)
 
-[So Easy: Charge time calculation] (7kyu/so_easy_charge_time_calculation_final.rb) [(CodeWars)] (https://www.codewars.com/kata/so-easy-charge-time-calculation/)
+[Parts of a list] (7kyu/parts_of_a_list_final.rb) [(CodeWars)] (https://www.codewars.com/kata/parts-of-a-list)
 
-[String Reversing, Changing case, etc.] (7kyu/string_reversing_changing_case_etc_final.rb) [(CodeWars)] (https://www.codewars.com/kata/string-reversing-changing-case-etc/)
+[So Easy: Charge time calculation] (7kyu/so_easy_charge_time_calculation_final.rb) [(CodeWars)] (https://www.codewars.com/kata/so-easy-charge-time-calculation)
+
+[String Reversing, Changing case, etc.] (7kyu/string_reversing_changing_case_etc_final.rb) [(CodeWars)] (https://www.codewars.com/kata/string-reversing-changing-case-etc)
+
+[Sum up the random string] (7kyu/sum_up_the_random_string_final.rb) [(CodeWars)] (https://www.codewars.com/kata/sum-up-the-random-string)
+
+[The dropWhile Functionn] (7kyu/the_dropwhile_function_final.rb) [(CodeWars)] (https://www.codewars.com/kata/the-dropwhile-function)
+
+[The mean of two means] (7kyu/the_mean_of_two_means_final.rb) [(CodeWars)] (https://www.codewars.com/kata/the-mean-of-two-means)
+
+[Two to one] (7kyu/two_to_one_final.rb) [(CodeWars)] (https://www.codewars.com/kata/two-to-one)
 
 
 
