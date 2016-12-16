@@ -109,9 +109,19 @@
 
 ### <a name="5KYU">5 KYU</a>
 
+[Break camelCase] (5kyu/break_camel_case_final.rb) [(CodeWars)] (https://www.codewars.com/kata/https://www.codewars.com/kata/break-camelcase)
+
 [Common Denominators] (5kyu/common_denominators_final.rb) [(CodeWars)] (https://www.codewars.com/kata/common-denominators)
 
+[Convert PascalCase string into snake_case] (5kyu/convert_pascalcase_string_into_snake_case_final.rb) [(CodeWars)] (https://www.codewars.com/kata/convert-pascalcase-string-into-snake-case)
+
+[Greed is Good] (5kyu/greed_is_good_final.rb) [(CodeWars)] (https://www.codewars.com/kata/greed-is-good)
+
+[Scramblies] (5kyu/scramblies_final.rb) [(CodeWars)] (https://www.codewars.com/kata/scramblies)
+
 [Simple Pig Latin] (5kyu/simple_pig_latin_final.rb) [(CodeWars)] (https://www.codewars.com/kata/simple-pig-latin)
+
+[Two Joggers] (5kyu/two_joggers_final.rb) [(CodeWars)] (https://www.codewars.com/kata/two-joggers)
 
 ### <a name="4KYU">4 KYU</a>
 
