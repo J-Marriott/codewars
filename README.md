@@ -89,7 +89,7 @@
 
 [Find the odd int] (6kyu/Find_the_odd_int_final.rb) [(CodeWars)] (https://www.codewars.com/kata/find-the-odd-int)
 
-[Help the bookseller!] (6kyu/help_the_bookseller_final.rb) [(CodeWars)] (https://www.codewars.com/kata/help-the-bookseller)
+[Help the bookseller!] (6kyu/help_the_book_seller_final.rb) [(CodeWars)] (https://www.codewars.com/kata/help-the-bookseller)
 
 [Format a string of names like 'Bart, Lisa & Maggie'] (6kyu/format_a_string_of_names_final.rb) [(CodeWars)] (https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie)
 
