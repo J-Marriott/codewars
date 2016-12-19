@@ -89,6 +89,8 @@
 
 [Find the odd int] (6kyu/Find_the_odd_int_final.rb) [(CodeWars)] (https://www.codewars.com/kata/find-the-odd-int)
 
+[Help the bookseller!] (6kyu/help_the_bookseller_final.rb) [(CodeWars)] (https://www.codewars.com/kata/help-the-bookseller)
+
 [Format a string of names like 'Bart, Lisa & Maggie'] (6kyu/format_a_string_of_names_final.rb) [(CodeWars)] (https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie)
 
 [Linux history and `!` command. Series#1 The `!!` command] (6kyu/linux_history_1_final.rb) [(CodeWars)] (https://www.codewars.com/kata/linux-history-and-%60-%60-command-series-number-1-the-%60-%60-command)
@@ -114,6 +116,8 @@
 [Common Denominators] (5kyu/common_denominators_final.rb) [(CodeWars)] (https://www.codewars.com/kata/common-denominators)
 
 [Convert PascalCase string into snake_case] (5kyu/convert_pascalcase_string_into_snake_case_final.rb) [(CodeWars)] (https://www.codewars.com/kata/convert-pascalcase-string-into-snake-case)
+
+[Directions Reduction] (5kyu/directions_reduction_final.rb) [(CodeWars)] (https://www.codewars.com/kata/directions-reduction)
 
 [Greed is Good] (5kyu/greed_is_good_final.rb) [(CodeWars)] (https://www.codewars.com/kata/greed-is-good)
 
